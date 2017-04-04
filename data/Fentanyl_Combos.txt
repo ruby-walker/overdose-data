@@ -1,0 +1,439 @@
+﻿Alcohol                        
+Alcohol                        
+Alcohol                        
+Alcohol                        
+Alcohol                        
+Alcohol                        
+Alcohol                        
+Alcohol                        
+Alprazolam                        
+Alprazolam                        
+Citalopram/Escitalopram                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Cocaine                        
+Diazepam                        
+Diazepam                        
+Diazepam                        
+Diphenhydramine                        
+Doxepin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Heroin                        
+Hydrocodone                        
+Morphine                        
+Oxycodone                        
+Oxycodone                        
+Oxycodone                        
+Venlafaxine                        
+Alcohol         Cocaine                
+Alcohol         Cocaine                
+Alcohol         Cocaine                
+Alcohol         Cocaine                
+Alcohol         Cocaine                
+Alcohol         Cocaine                
+Alcohol         Cocaine                
+Alcohol         Cocaine                
+Alcohol         Cocaine                
+Alcohol         Cocaine                
+Alcohol         Cocaine                
+Alprazolam        Cocaine                
+Citalopram        Cocaine                
+Clonazepam        Cocaine                
+Cocaine        Diazepam                
+Clonazepam        Diphenhydramine                
+Alcohol        Heroin                
+Alcohol        Heroin                
+Alcohol        Heroin                
+Alcohol        Heroin                
+Alcohol        Heroin                
+Alcohol        Heroin                
+Alcohol        Heroin                
+Alprazolam        Heroin                
+Alprazolam        Heroin                
+Alprazolam        Heroin                
+Alprazolam        Heroin                
+Alprazolam        Heroin                
+Alprazolam        Heroin                
+Alprazolam        Heroin                
+Alprazolam        Heroin                
+Alprazolam        Heroin                
+Alprazolam        Heroin                
+Alprazolam        Heroin                
+Alprazolam        Heroin                
+Benzodiazepines        Heroin                
+Clonazepam        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Cocaine        Heroin                
+Codeine        Heroin                
+Codeine        Heroin                
+Codeine        Heroin                
+Codeine        Heroin                
+Codeine        Heroin                
+Diazepam        Heroin                
+Etizolam        Heroin                
+Cocaine        Hydrocodone                
+Diphenhydramine        Hydrocodone                
+Heroin        Hydrocodone                
+Heroin        Methamphetamine                
+Lorazepam        Midazolam                
+Heroin        Mirtazapine                
+Clonazepam        Morphine                
+Alcohol        Oxycodone                
+Alcohol        Oxycodone                
+Alprazolam        Oxycodone                
+Heroin        Oxycodone                
+Morphine        Oxycodone                
+Citalopram/Escitalopram        Trazodone                
+Alprazolam        Clonazepam        Heroin        
+Citalopram/Escitalopram        Clonazepam        Heroin        
+Alcohol         Cocaine        Heroin        
+Alcohol         Cocaine        Heroin        
+Alcohol         Cocaine        Heroin        
+Alprazolam        Cocaine        Heroin        
+Clonazepam        Cocaine        Heroin        
+Cocaine        Codeine        Heroin        
+Cocaine        Codeine        Heroin        
+Cocaine        Cyclobenzaprine        Heroin        
+Alcohol        Diazepam        Heroin        
+Codeine        Diazepam        Heroin        
+Cocaine        Diphenhydramine        Heroin        
+Cocaine        Heroin        Hydrocodone        
+Codeine        Heroin        Hydrocodone        
+Diazepam        Heroin        Hydromorphone        
+Alcohol         Benzodiazepines        Methadone        
+Alprazolam        Codeine        Methadone        
+Alcohol         Heroin         Methadone        
+Alprazolam        Heroin        Methadone        
+Cocaine        Heroin        Methamphetamine        
+Alcohol        Cocaine        Morphine        
+Alcohol         Diphenhydramine        Morphine        
+Alcohol         Alprazolam        Oxycodone        
+Cocaine        Heroin        Oxycodone        
+Diphenhydramine        Heroin        Oxycodone        
+Alcohol         Heroin        Temazepam        
+Cyclobenzaprine        Heroin        Tramadol        
+Alprazolam        Furanyl Fentanyl        U-47700 Synthetic Opioid        
+Cocaine        Phenytoin        Venlafaxine        
+Alprazolam        Citalopram/Escitalopram                
+Cocaine        Oxycodone        Acetaminophen        Combined OD5
+Alcohol         Alprazolam        Clonazepam        Diphenhydramine
+Alcohol         Alprazolam        Clonazepam        Heroin
+Alcohol         Alprazolam        Cocaine        Heroin
+Alcohol         Alprazolam        Cocaine        Heroin
+Alcohol         Alprazolam        Cocaine        Heroin
+Alprazolam        Clonazepam        Codeine        Heroin
+Alprazolam        Cocaine        Codeine        Heroin
+Clonazepam        Cocaine        Codeine        Heroin
+Alcohol         Cocaine        Dextromethorphan        Mirtazapine
+Citalopram/Escitalopram        Cocaine        Diphenhydramine        Morphine
+Acetyl Fentanyl        Alprazolam        Heroin        Oxycodone
+Alcohol         Alprazolam        Heroin        Oxycodone
+Alcohol         Amitriptyline        Heroin        Oxymorphone
+Acetyl Fentanyl        Butylone        Heroin        Quetiapine
+Alcohol         Citalopram        Heroin        Trazodone
+
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl
+Fentanyl

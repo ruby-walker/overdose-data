@@ -3,26 +3,26 @@ import re
 
 # select a keyword (user input)
 print("Welcome to the overdose counter.")
-keyword = input("Which number would you like to search for? Please enter one digit, 1-7:  ")
+keyword = input("Which drug would you like to search for? Please enter one word:  ")
 
 # while the keyword isn't a single word
 while len(keyword.split()) > 1:
-	keyword = input("Please enter one digit, 1-7. For example, '3'.")
+	keyword = input("Please enter one word. For example, 'heroin'.")
 
 # create a dictionary of song names to file names
-alcohol_files = {"Alcohol": "data/Alcohol.txt",
+alcohol_files = {"Alcohol": "data/Alcohol_Combos.txt",
 }
 
-cocaine_files = {"Cocaine": "data/Cocaine.txt",
+cocaine_files = {"Cocaine": "data/Cocaine_Combos.txt",
 }
 
-alprazolam_files = { "alprazolam": "data/alprazolam.txt",
+alprazolam_files = { "alprazolam": "data/Alprazolam_Combos.txt",
 }
 
-heroin_files = {"Heroin": "data/Heroin.txt",
+heroin_files = {"Heroin": "data/Heroin_Combos.txt",
 }
 
-fentanyl_files = {"Fentanyl": "data/Fentanyl.txt",
+fentanyl_files = {"Fentanyl": "data/Fentanyl_Combos.txt",
 }
 
 # make the songs dictionary, using the filenames dictionary
@@ -76,7 +76,7 @@ drug3_ods = ""
 for cocaine_ods in cocaine:
 	drug3_ods += cocaine[cocaine_ods]
 
-cocaine_total="145"
+cocaine_total="142"
 
 drug_name4 = "heroin"
 drug4_ods = ""
@@ -90,11 +90,11 @@ drug5_ods = ""
 for fentanyl_ods in fentanyl:
 	drug5_ods += fentanyl[fentanyl_ods]
 
-fentanyl_total="235"
+fentanyl_total="237"
 
 # count and print for drugs!
 print("")
-print("Within Allegheny County in 2016, there were %s drugs (including the main drug) combined in..." % (keyword))
+print("Within Allegheny County in 2016, %s was used in..." % (keyword))
 
 alcohol_word_count = re.sub("[^\w]", " ", drug1_ods).split().count(keyword.lower())
 print("%d out of %s total %s overdose%s." % (alcohol_word_count, alcohol_total, drug_name1, "" if (alcohol_word_count == 1) else "s"))

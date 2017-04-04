@@ -1,0 +1,284 @@
+﻿Alcohol         Heroin                        
+Alcohol                                
+Alcohol         Oxycodone                        
+Alprazolam        Heroin                        
+Fentanyl        Heroin                        
+                                
+Alprazolam        Diphenhydramine        Heroin                
+Benzodiazepines                                
+                                
+Alcohol        Fentanyl        Heroin                
+                                
+Methadone                                
+                                
+Heroin        Oxymorphone                        
+Alcohol         Fentanyl        Heroin                
+                                
+Fentanyl        Heroin                        
+Alcohol         Dextromethorphan        Heroin        Fentanyl        
+Opiates                                
+Codeine        Fentanyl                        
+Morphine                                
+Alprazolam        Codeine        Fentanyl        Heroin        
+Heroin                                
+Heroin                                
+Heroin                                
+Alprazolam        Heroin                        
+                                
+Alprazolam        Heroin        Venlafaxine                
+Heroin                                
+Methadone                                
+Bupropion                                
+Alcohol                                
+Alcohol         Fentanyl        Heroin        Trazodone        
+Acetaminophen        Clonazepam        Fentanyl        Phentermine        Temazepam
+Alprazolam        Heroin                        
+Alcohol         Heroin                        
+Alcohol         Fentanyl        Heroin                
+Fentanyl        Heroin                        
+Methadone                                
+Heroin        Oxycodone                        
+Alcohol         Furanyl Fentanyl                        
+Furanyl Fentanyl                                
+Cyclobenzaprine        Fentanyl                        
+Fentanyl                                
+Alcohol         Alprazolam        Combined OD4        Heroin        
+Fentanyl        Heroin                        
+Heroin                                
+                                
+Citalopram/Escitalopram        Diphenhydramine        Heroin                
+Fentanyl        Heroin                        
+                                
+Alprazolam        Furanyl Fentanyl        U-47700 Synthetic Opioid                
+Codeine        Heroin        Temazepam                
+                                
+                                
+                                
+Alcohol         Furanyl Fentanyl                        
+Fentanyl        Heroin                        
+Alprazolam        Heroin                        
+Fentanyl        Heroin                        
+Fentanyl                                
+Citalopram/Escitalopram        Methadone                        
+Citalopram/Escitalopram        Oxycodone                        
+Fentanyl                                
+Fentanyl                                
+Alcohol         Alprazolam        Fentanyl                
+Alprazolam        Clonazepam        Fentanyl                
+Fentanyl                                
+Fentanyl        Heroin                        
+Fentanyl                                
+Alprazolam        Fentanyl        Oxycodone                
+Alcohol         Alprazolam        Diphenhydramine        Heroin        
+Heroin        Fentanyl                        
+Diazepam        Heroin                        
+                                
+Citalopram/Escitalopram        Methadone                        
+Citalopram        Fentanyl        Tramadol                
+Heroin                                
+Alcohol                                
+Clonazepam        Fentanyl        Venlafaxine                
+Alcohol                                
+Alcohol         Fentanyl        Heroin                
+Alcohol                                
+Fentanyl                                
+                                
+Heroin        Fentanyl                        
+Benzodiazepines        Heroin                        
+Heroin                                
+Alcohol        Fentanyl        Heroin                
+Heroin                                
+Alcohol        Fentanyl        Hydrocodone                
+Fentanyl        Heroin                        
+Fentanyl                                
+Heroin                                
+                                
+Alcohol        Heroin                        
+Clonazepam        Codeine        Heroin        Heroin        
+Codeine        Fentanyl                        
+Fentanyl        Heroin                        
+Fentanyl        Heroin                        
+Fentanyl        Oxycodone                        
+Alcohol        Carisoprodol        Fentanyl                
+Fentanyl        Phenytoin                        
+Fentanyl        Heroin                        
+Fentanyl        Heroin                        
+Alcohol        Fentanyl        Lamotrigine                
+Fentanyl        Heroin                        
+Alcohol        Fentanyl        Methadone                
+Fentanyl        Heroin                        
+Clonazepam        Fentanyl        Venlafaxine                
+Heroin                                
+Fentanyl        Heroin                        
+Alcohol        Alprazolam        Fentanyl        Heroin        
+Fentanyl        Heroin                        
+Fentanyl        Hydrocodone                        
+Alcohol        Fentanyl        Methadone                
+Alcohol        Fentanyl        Methamphetamine                
+Alprazolam        Fentanyl        Oxycodone                
+Fentanyl                                
+Fentanyl                                
+Fentanyl                                
+Fentanyl                                
+Alcohol        Fentanyl        Morphine                
+Diphenhydramine        Fentanyl                        
+Alcohol        Fentanyl        Heroin                
+Fentanyl                                
+Fentanyl                                
+Benzodiazepines        Heroin                        
+Fentanyl        Heroin                        
+Fentanyl        Heroin                        
+Fentanyl                                
+Fentanyl        Heroin                        
+Fentanyl                                
+Fentanyl        Heroin                        
+Alcohol        Fentanyl        Nordiazepam                
+Diazepam        Fentanyl                        
+Fentanyl                                
+Alprazolam        Diazepam        Heroin        Methadone        
+Fentanyl        Heroin                        
+Fentanyl                                
+Alcohol        Fentanyl        Oxazepam
+
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine
+Cocaine

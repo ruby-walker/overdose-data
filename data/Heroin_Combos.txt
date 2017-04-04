@@ -1,0 +1,413 @@
+﻿Acetyl Fentanyl        Alcohol                        
+                                
+                                
+Alcohol        Cocaine                        
+Clonazepam                                
+Cyclobenzaprine                                
+Fentanyl                                
+                                
+Alcohol                                
+Alprazolam        Hydrocodone                        
+Fentanyl                                
+Alprazolam        Cocaine                        
+Alprazolam        Fentanyl                        
+Alprazolam        Fluoxetine        Hydroxyzine        Quetiapine        
+Cocaine        Fentanyl                        
+                                
+                                
+Alcohol        Fentanyl                        
+                                
+Fentanyl                                
+Diphenhydramine        Fentanyl        Oxycodone                
+Alcohol        Fentanyl                        
+Fentanyl                                
+                                
+Fentanyl                                
+Alcohol        Diphenhydramine                        
+                                
+Alprazolam        Fentanyl        Methadone                
+                                
+Codeine        Fentanyl                        
+Cocaine        Oxymorphone        Tramadol                
+Alcohol        Alprazolam        Fentanyl                
+Fentanyl                                
+Fentanyl                                
+                                
+Fentanyl                                
+Trazodone                                
+Cocaine        Fentanyl                        
+Alcohol        Clonazepam        Trazodone                
+Fentanyl                                
+Diazepam        Hydrocodone        Lamotrigine        Oxycodone        
+Diazepam        Fluoxetine                        
+Alprazolam                                
+                                
+Cocaine        Codeine        Fentanyl                
+Alprazolam                                
+Cyclobenzaprine        Fentanyl        Tramadol                
+Diazepam                                
+Cocaine                                
+Lorazepam                                
+Cocaine                                
+Alprazolam                                
+Citalopram/Escitalopram        Diphenhydramine                        
+Cocaine                                
+Fentanyl                                
+Alprazolam        Cocaine        Lamotrigine                
+Alprazolam                                
+Citalopram/Escitalopram                                
+Fentanyl                                
+Diazepam        Fentanyl                        
+Alprazolam        Cocaine        Nordiazepam        Venlafaxine        
+Benzodiazepines                                
+Fentanyl        Hydrocodone                        
+Cocaine                                
+Diphenhydramine                                
+Alprazolam        Fentanyl                        
+Alcohol        Cocaine        Fentanyl        Trazodone        
+Acetaminophen        Clonazepam        Cocaine        Phentermine        Temazepam
+Alprazolam        Cocaine                        
+Alcohol                                
+Alcohol        Cocaine                        
+Cocaine        Fentanyl                        
+Alprazolam        Fentanyl                        
+                                
+Cocaine        Oxycodone        Venlafaxine                
+Fentanyl                                
+Alcohol        Furanyl Fentanyl                        
+Fentanyl                                
+Fentanyl                                
+Fentanyl        Mirtazapine                        
+Alprazolam        Fentanyl                        
+Cis-3-Methylfentanyl        Trans-3-Methylfentanyl                        
+Cocaine        Cyclobenzaprine        Fentanyl                
+Codeine        Fentanyl                        
+Acetyl Fentanyl        Alprazolam        Fentanyl                
+Acetyl Fentanyl        Butylone        Fentanyl                
+Etizolam        Fentanyl                        
+Amitriptyline        Bupropion        Carisoprodol                
+Fentanyl                                
+Cocaine        Fentanyl                        
+                                
+Cocaine                                
+Oxycodone                                
+Clonazepam        Fentanyl                        
+                                
+Fentanyl                                
+Codeine                                
+Cocaine        Fentanyl                        
+Codeine        Fentanyl        Hydrocodone        Oxymorphone        
+Alprazolam        Fentanyl                        
+                                
+Cocaine        Codeine        Oxazepam        Temazepam        
+Fentanyl        Oxycodone                        
+Alprazolam        Fentanyl                        
+Alcohol        Fentanyl        Temazepam                
+Codeine        Fentanyl                        
+Lorazepam        Methadone                        
+Cocaine        Fentanyl                        
+Fentanyl                                
+Alprazolam        Cocaine                        
+Benzodiazepines        Fentanyl                        
+Cocaine        Fentanyl                        
+Alprazolam        Clonazepam        Fentanyl                
+Alprazolam        Diphenhydramine                        
+Alcohol        Diazepam        Fentanyl                
+Alprazolam        Fentanyl                        
+Alcohol        Fentanyl                        
+Cocaine        Fentanyl                        
+Fentanyl                                
+Diphenhydramine                                
+Alprazolam                                
+Benzodiazepines                                
+Alprazolam        Fentanyl                        
+Fentanyl                                
+Fentanyl        Diazepam        Hydromorphone        Oxycodone        
+Cocaine        Fentanyl                        
+Cocaine        Diazepam                        
+Codeine        Diazepam        Fentanyl                
+                                
+Alcohol         Fentanyl                        
+                                
+Alcohol         Alprazolam                        
+                                
+Cocaine                                
+Citalopram/Escitalopram        Clonazepam        Fentanyl        Quetiapine        
+Benzodiazepines        Cocaine                        
+Cocaine        Fentanyl                        
+                                
+Cocaine                                
+Quetiapine                                
+Alcohol         Cocaine        Fentanyl                
+Cocaine                                
+Fentanyl                                
+Cocaine        Fentanyl                        
+Fentanyl                                
+Alprazolam        Clonazepam                        
+Cocaine                                
+Diazepam                                
+Fentanyl                                
+Alcohol         Fentanyl                        
+Fentanyl                                
+Alcohol         Cocaine                        
+Fentanyl                                
+Fentanyl                                
+Fentanyl                                
+Cocaine        Fentanyl                        
+Cocaine        Codeine        Fentanyl                
+Fentanyl                                
+Fentanyl                                
+Codeine        Fentanyl                        
+Cocaine        Fentanyl        Methamphetamine                
+Fentanyl                                
+Fentanyl                                
+Cocaine        Fentanyl                        
+Cocaine        Fentanyl                        
+Fentanyl                                
+Codeine        Fentanyl                        
+Alcohol         Nordiazepam                        
+Cocaine        Fentanyl        Hydrocodone                
+Fentanyl                                
+Alprazolam        Fentanyl                        
+Alprazolam        Fentanyl                        
+Alcohol         Citalopram        Fentanyl        Mirtazapine        
+Fentanyl                                
+Fentanyl        Methamphetamine                        
+Alcohol         Amitriptyline        Fentanyl                
+                                
+Cocaine        Fentanyl                        
+Clonazepam        Cocaine        Fentanyl                
+Cocaine                                
+Cocaine        Fentanyl                        
+Alcohol                                
+                                
+Cocaine        Fentanyl                        
+Fentanyl                                
+Alprazolam        Cocaine        Fentanyl                
+Alprazolam        Fentanyl                        
+Cocaine        Diphenhydramine        Fentanyl                
+                                
+Alcohol         Cocaine        Fentanyl                
+Fentanyl                                
+Benzodiazepines        Cocaine                        
+Fentanyl                                
+Cocaine        Fentanyl                        
+Fentanyl                                
+Cocaine        Fentanyl                        
+Alcohol         Fentanyl                        
+Alcohol         Fentanyl        Methadone                
+Cocaine        Fentanyl        Oxycodone                
+Fentanyl                                
+Alcohol         Fentanyl                        
+Cocaine        Fentanyl                        
+Alprazolam        Cocaine        Diazepam        Methadone        
+Alprazolam        Fentanyl                        
+Cocaine        Fentanyl                        
+Fentanyl
+
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin
+Heroin

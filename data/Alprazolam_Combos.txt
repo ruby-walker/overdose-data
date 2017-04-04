@@ -1,0 +1,138 @@
+﻿Combined OD2        Combined OD3        Combined OD4        Combined OD5        Combined OD6        Combined OD7
+Alcohol                                        
+Fentanyl                                        
+Fentanyl                                        
+Heroin                                        
+Heroin                                        
+Heroin                                        
+Heroin                                        
+Heroin                                        
+Methadone                                        
+Cocaine        Diphenhydramine                                
+Citalopram/Escitalopram        Fentanyl                                
+Cocaine        Fentanyl                                
+Alcohol        Heroin                                
+Clonazepam        Heroin                                
+Cocaine        Heroin                                
+Cocaine        Heroin                                
+Cocaine        Heroin                                
+Diphenhydramine        Heroin                                
+Fentanyl        Heroin                                
+Fentanyl        Heroin                                
+Fentanyl        Heroin                                
+Fentanyl        Heroin                                
+Fentanyl        Heroin                                
+Fentanyl        Heroin                                
+Fentanyl        Heroin                                
+Fentanyl        Heroin                                
+Fentanyl        Heroin                                
+Fentanyl        Heroin                                
+Fentanyl        Heroin                                
+Fentanyl        Heroin                                
+Heroin        Hydrocodone                                
+Clonazepam        Methadone                                
+Doxepin        Methadone                                
+Doxepin        Oxycodone                                
+Fentanyl        Oxycodone                                
+Clonazepam        Oxymorphone                                
+Oxycodone        Oxymorphone                                
+Cocaine        Heroin        Lamotrigine                        
+Alcohol        Cocaine        Methadone                        
+Clonazepam        Cocaine        Methadone                        
+Codeine        Fentanyl        Methadone                        
+Fentanyl        Heroin        Methadone                        
+Cocaine        Heroin        Nordiazepam                        
+Alcohol         Methadone        Nordiazepam                        
+Alcohol         Methadone        Nordiazepam                        
+Clonazepam        Diazepam        Oxycodone                        
+Alcohol         Fentanyl        Oxycodone                        
+Fluoxetine        Hydrocodone        Oxycodone                        
+Alcohol         Methadone        Trazodone                        
+Fentanyl        Furanyl Fentanyl        U-47700 Synthetic Opioid                        
+Amphetamines        Methadone        Venlafaxine                        
+Alcohol         Clonazepam        Cocaine        Fentanyl                
+Alcohol         Clonazepam        Fentanyl        Heroin                
+Alcohol         Cocaine        Fentanyl        Heroin                
+Alcohol         Cocaine        Fentanyl        Heroin                
+Alcohol         Cocaine        Fentanyl        Heroin                
+Clonazepam        Codeine        Fentanyl        Heroin                
+Cocaine        Codeine        Fentanyl        Heroin                
+Buprenorphine         Chlorpromazine        Fluoxetine        Hydrocodone                
+Cocaine        Diazepam        Heroin        Methadone                
+Acetyl Fentanyl        Fentanyl        Heroin        Morphine                
+Alcohol         Fentanyl        Heroin        Nordiazepam                
+Clonazepam        Fentanyl        Heroin        Quetiapine                
+Cocaine        Fentanyl        Heroin        Temazepam                
+Cocaine        Furanyl Fentanyl        Heroin        U-47700 Synthetic Opioid                
+Fluoxetine        Heroin        Hydroxyzine        Venlafaxine                
+Carisoprodol        Clonazepam        Meprobamate        Oxycodone        Phentermine        
+Bupropion        Cyclobenzaprine        Diphenhydramine        Gabapentin        Methadone        Tramadol
+
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
+Alprazolam
