@@ -1,0 +1,148 @@
+body{
+	background-color: white;
+	font-family: 'Stardos Stencil', cursive;
+}
+
+jumbotron{
+	background-color: white;
+}
+
+
+bk-plotdiv{
+	margin: auto;
+	padding: 100px;
+}
+
+review {
+	margin-left: 100px;
+	margin-right: 100px;
+	color: red
+}
+
+.textbox1{
+	background-color: white;
+	border-radius: 	10px;
+	padding-top: 20px;
+	border: 2px solid black;
+	margin-bottom: 10px;
+}
+
+td{
+	width: 60px
+}
+
+.textbox2{
+	background-color: #A3009E;
+	border-radius: 	10px;
+	padding: 20px;
+	border: 2px solid white;
+	margin-bottom: 10px;
+}
+
+.copyright{
+	margin-top: 10px;
+	color: #FA416C
+}
+
+h1{
+	text-align: center;
+	margin-bottom: 15px;
+	font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: auto;
+		border: 4pt solid black;
+}
+
+
+h2{
+	color: #D30000;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	text-align: center;
+	font-size: 23px
+}
+
+h3{
+	color: #D30000;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: -4px;
+}
+
+h4{
+	color: #400000;
+	text-align: center;
+	font-size: 16px;
+}
+
+h5{
+	color: #400000;
+	margin-top: 15px;
+	text-align: justify;
+	font-size: 16px;
+	margin-left: 18%;
+	margin-right: 18%;
+}
+
+a{
+	color: #D30000;
+}
+
+a:hover{
+	color: #560000;
+}
+
+
+.customh1{
+	color: #D30000;
+	text-align: center;
+}
+
+
+p{
+	color: #400000;
+	text-align: center;
+	font-size: 16px;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+nav{
+    display: block;
+    padding: 1em;
+    margin: 0;
+		text-align: center;
+}
+
+nav a{
+    position: relative;
+    display: inline-block;
+    padding: .7em;
+    margin-left: .7em;
+    border: 3px solid #fff;
+    background: #333;
+    color: white;
+		width: 11%;
+		font-weight: bold;
+		font-size: 1.8em
+}
+
+nav a::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    opacity: 0.5;
+    background: red;
+    transition: width .5s;
+}
+
+nav a:hover::before{
+    width:  100%;
+}
