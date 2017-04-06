@@ -28,7 +28,7 @@ review {
 }
 
 td{
-	width: 50%
+	width: 60px
 }
 
 .textbox2{
@@ -105,7 +105,7 @@ a:hover{
 
 p{
 	color: #400000;
-	text-align: justify;
+	text-align: center;
 	font-size: 16px;
 	margin-left: 15%;
 	margin-right: 15%;
