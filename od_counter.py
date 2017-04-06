@@ -9,7 +9,7 @@ keyword = input("Which number would you like to search for? Please enter one dig
 while len(keyword.split()) > 1:
 	keyword = input("Please enter one digit, 1-7. For example, '3'.")
 
-# create a dictionary of song names to file names
+# load data
 alcohol_files = {"Alcohol": "data/Alcohol.txt",
 }
 
@@ -25,7 +25,7 @@ heroin_files = {"Heroin": "data/Heroin.txt",
 fentanyl_files = {"Fentanyl": "data/Fentanyl.txt",
 }
 
-# make the songs dictionary, using the filenames dictionary
+# make the dictionary, using the filenames dictionary
 alcohol = {}
 for alcohol_file in alcohol_files:
 	fv = open(alcohol_files[alcohol_file])

@@ -9,7 +9,7 @@ keyword = input("Which drug would you like to search for? Please enter one word:
 while len(keyword.split()) > 1:
 	keyword = input("Please enter one word. For example, 'heroin'.")
 
-# create a dictionary of song names to file names
+# load files
 alcohol_files = {"Alcohol": "data/Alcohol_Combos.txt",
 }
 
@@ -25,7 +25,7 @@ heroin_files = {"Heroin": "data/Heroin_Combos.txt",
 fentanyl_files = {"Fentanyl": "data/Fentanyl_Combos.txt",
 }
 
-# make the songs dictionary, using the filenames dictionary
+# make the dictionaries, using the filenames dictionary
 alcohol = {}
 for alcohol_file in alcohol_files:
 	fv = open(alcohol_files[alcohol_file])
