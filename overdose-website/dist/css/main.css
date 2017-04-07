@@ -11,6 +11,10 @@ jumbotron{
 	text-align: center;
 }
 
+.centerchart{
+	text-align: center;
+}
+
 bk-plotdiv{
 	margin: auto;
 	padding: 100px;
