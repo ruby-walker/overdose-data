@@ -7,6 +7,9 @@ jumbotron{
 	background-color: white;
 }
 
+.deathcount{
+	text-align: center;
+}
 
 bk-plotdiv{
 	margin: auto;
