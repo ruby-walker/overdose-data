@@ -15,6 +15,11 @@ jumbotron{
 	text-align: center;
 }
 
+.plotcontainer{
+	margin-left:25%;
+	margin-right:25%;
+}
+
 bk-plotdiv{
 	margin: auto;
 	padding: 100px;
